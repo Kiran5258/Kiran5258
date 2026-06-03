@@ -1,21 +1,113 @@
-# Hi, I'm Kiran Kumar 👋  
+# Hi there, I'm Kiran Kumar 👋
 
-🚀 Aspiring Full-stack Developer | Java | MERN | SQL  
+### 🚀 Full-Stack Developer | Java Developer | MERN Stack Enthusiast
 
-- 🔭 Currently working on MERN stack projects  
-- 🌱 Exploring Data Structures & Algorithms (Java)  
-- 💡 Interested in Web Apps, System Design, and Open Source  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/s-kiran-kumar-896a9b257/) | [Email](mailto:skirankumar97849@gmail.com)  
+I'm a passionate software developer focused on building scalable web applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-## 🛠 Tech Stack
-- **Languages:** Java, JavaScript, SQL  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, MySQL  
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Final Year Information Technology Student
+* 💻 Full-Stack Developer specializing in MERN Stack
+* ☕ Strong interest in Java Development
+* 📚 Currently learning Advanced DSA and System Design
+* 🔐 Cybersecurity enthusiast exploring Hack The Box and TryHackMe
+* 🌱 Open to Software Developer and Java Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+* SQL
+* HTML5
+* CSS3
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* Redux Toolkit
+* Zustand
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Linux
+
+---
 
 ## 📌 Featured Projects
-- [Service Booking App (MERN)](https://github.com/Kiran5258/wakeuprobo)  
-- [Task Management Board (React)](https://github.com/Kiran5258/to-do-list)  
 
-## 📊 GitHub Stats
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiran5258&show_icons=true&theme=default)  
+### 🚀 Service Booking Platform (MERN)
+
+* User Authentication
+* Service Management
+* Booking System
+* Admin Dashboard
+* MongoDB Integration
+
+🔗 Repository: https://github.com/Kiran5258/wakeuprobo
+
+---
+
+### 📋 Task Management Board
+
+* Kanban Style UI
+* Task CRUD Operations
+* Local Storage Persistence
+* Responsive Design
+
+🔗 Repository: https://github.com/Kiran5258/to-do-list
+
+---
+
+### 🎯 Learning Projects
+
+* Real-Time Quiz App (React + Firebase)
+* CGPA Calculator (React Native)
+* E-Commerce Platform (MERN)
+* Advanced JavaScript Projects
+
+---
+
+## 📈 Current Goals
+
+* Master Data Structures & Algorithms
+* Become a Professional Java Developer
+* Contribute to Open Source Projects
+* Build Production-Ready Full-Stack Applications
+* Crack Top Product-Based Company Interviews
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/s-kiran-kumar-896a9b257
+* GitHub: https://github.com/Kiran5258
+* Email: [skirankumar97849@gmail.com](mailto:skirankumar97849@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+> "Consistency beats intensity. Small improvements every day lead to remarkable results."
